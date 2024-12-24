@@ -1,0 +1,31 @@
+Project Title: Smart Waste Management System
+
+Technologies Used: Python, SQL, HTML, CSS, Convolutional Neural Networks (CNN)
+
+Project Summary:
+The Smart Waste Management System is a technology-driven solution designed to automate waste classification and enhance recycling processes. The system enables users to upload images of waste, which are then analyzed using a Convolutional Neural Network (CNN) to identify the type of waste (e.g., plastic, organic, metal, etc.). Based on this classification, the system provides recommendations for proper recycling or disposal.
+
+Key Features:
+
+Image-Based Waste Identification:
+Users upload waste images through a web-based interface.
+A CNN algorithm processes the image and classifies the waste.
+User-Friendly Interface:
+Developed using HTML and CSS, ensuring ease of use.
+Database Management:
+MySQL database stores user data and waste classifications for reporting and tracking purposes.
+Sustainability Focus:
+Promotes eco-friendly practices by automating the recycling process.
+Your Contributions:
+
+Frontend Development: Designed and implemented the web interface using HTML and CSS to ensure a smooth user experience.
+Database Design: Created and managed the MySQL database for storing user submissions and classification results.
+Collaboration with AI: Assisted in integrating the CNN algorithm to achieve accurate waste classification.
+Skills Demonstrated:
+
+Proficiency in Python for backend processing and AI model integration.
+Knowledge of SQL for database creation and management.
+Hands-on experience with HTML/CSS for frontend development.
+Understanding of machine learning algorithms and their real-world applications.
+Outcome:
+This project highlights the potential of combining AI, web development, and database management to solve environmental challenges. It provided valuable insights into building practical, user-centric applications with a focus on sustainability.
